@@ -11,6 +11,7 @@
 
 ## Wiki
 [详细安装教程](https://github.com/Cadwalader307/Malio-Theme-for-SSPANEL/wiki/%E8%AF%A6%E7%BB%86%E5%AE%89%E8%A3%85%E6%95%99%E7%A8%8B)
+[https://github.com/neutron2025/Malio-Theme-for-SSPANEL/wiki](https://github.com/neutron2025/Malio-Theme-for-SSPANEL/wiki)
 
 [授权说明](https://gitlab.com/maxitio/malio-theme-for-sspanel/wikis/授权说明)
 
